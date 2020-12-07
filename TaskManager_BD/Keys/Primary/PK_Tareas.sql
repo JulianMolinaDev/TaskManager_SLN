@@ -1,0 +1,3 @@
+﻿ALTER TABLE [SCH_TaskManager].[TBL_Tareas]
+	ADD CONSTRAINT [PK_Tareas]
+	PRIMARY KEY (Id)
